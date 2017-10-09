@@ -1,5 +1,5 @@
-#A simple ftp
+# A simple ftp
 
-#TODOs
+# TODOs
 
 - [ ] client
